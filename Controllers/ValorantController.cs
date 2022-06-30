@@ -6,7 +6,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using ValorantAPI.Clients;
-using ValorantAPI.Extensions;
 using ValorantAPI.MapModels;
 using ValorantAPI.Models;
 using ValorantAPI.WeaponsModels;
